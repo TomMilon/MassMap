@@ -7,7 +7,9 @@ Pré-requis :
 - QGIS-Server
 - PostgreSQL / PostGIS
 
-Installation :
-- Suivre le formulaire de connexion
+Utilisation :
+- Suivre le formulaire de connexion pour installer l'outil
 - Construire le projet QGIS de votre choix
+- Déposer le porjet QGIS et les données dans le dossier DATA
 - Paramétrez le fichier commun.inc.php
+- Lancer la production à travers l'interface web
