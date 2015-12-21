@@ -1,6 +1,5 @@
 # MassMap
 
-[![Join the chat at https://gitter.im/TomMilon/MassMap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TomMilon/MassMap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 MassMap is an application that allow mass production of map (eg. repartition species map => 1 map by species for 10 000 species)
 
 MassMap est un outil de production de carte en masse. Basé sur QGIS et QGIS-Serveur, il permet d'automatiser la production d'un carte en y associant un jeu de données avec une variable d'entrée. Initialement prévu pour produire des cartes de répartition de taxon flore, il peut être adapté pour d'autres types de carte à condition que ceux ci respecte la règle suivante : une entité = une carte (dans notre cas, un taxon = une carte).
@@ -24,3 +23,5 @@ Pour créer un projet, il vous faut :
 Lancer la production à travers l'interface web pour tester la production de quelques cartes
 Pour lancer la production en masse, utiliser la commande suivante :
 php -f prod_carte.php
+
+[![Join the chat at https://gitter.im/TomMilon/MassMap](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/TomMilon/MassMap?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
